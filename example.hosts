@@ -1,0 +1,5 @@
+host_name,address,use,alias,notificatons_enabled,register
+Packard-Nagios,192.168.1.100,generic-host,Packard-Nagios,1,1
+Packard-DC1,192.168.1.101,generic-host,Packard-DC1,1,1
+Packard-DC2,192.168.1.102,generic-host,Packard-DC2,1,1
+Packard-UTM,192.168.1.1,generic-host,Packard-UTM,1,1
